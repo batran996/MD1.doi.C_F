@@ -4,3 +4,6 @@ function cSangF() {
     document.getElementById('doF').value=ra
 
 }
+function reset(){
+    window.location.reload();
+}
